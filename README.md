@@ -2,6 +2,9 @@
 <h2>Proyecto del curso</h2>
 <p>Para realizar esta actividad debe seguir los siguientes pasos</p>
 <ol>
-  
+  descargar Visualstudio code
+  descargar PSint
+  descargar Notepad++
+  descargar Ptython
 </ol>
 <p>Cualquier duda escribe a</p>
